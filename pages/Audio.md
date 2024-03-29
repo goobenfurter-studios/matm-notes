@@ -1,0 +1,13 @@
+- Simple Gameplay Loop
+- Failure Jingle
+- Victory Jingle
+- Failure Loop? (If players control exit to menu)
+- Victory Loop? (If players control exit to menu)
+- Guard Whistle (For Use when Players are Caught)
+- Fixing Audio Effect
+- Walking Into Wall
+- Doors
+- Footsteps
+- Breaking Audio Effect
+- Twinkle Sound Effect
+- Different Artifacts Have Unique Bumping Sounds
