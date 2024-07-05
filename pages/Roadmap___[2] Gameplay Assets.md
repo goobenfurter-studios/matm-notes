@@ -1,6 +1,6 @@
 milestone:: 2
-status:: planned
-start:: 
+status:: in progress
+start:: [[2024-07-05 Friday]] 
 end::
 
 - [[Sprite]]
@@ -9,7 +9,4 @@ end::
 - background
 	- TODO [[Start Menu]]
 	- TODO [[Map]]
-- [[Audio]]
-	- TODO simple loop during game
-	- TODO caught tone
-- TODO [[Start Menu]]
+-
